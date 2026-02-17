@@ -169,6 +169,7 @@ async def imdb_callback(bot: Client, quer_y: CallbackQuery):
 🎭 Gᴇɴʀᴇꜱ: {imdb.get('genres', 'N/A')}
 📆 Yᴇᴀʀ: <a href="{imdb['url']}/releaseinfo">{imdb['year']}</a>
 🌟 Rᴀᴛɪɴɢ: <a href="{imdb['url']}/ratings">{imdb['rating']}</a>/10
+📤 Upload : @Indian_MV
 """
     else:
         caption = "No Results"
