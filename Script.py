@@ -232,7 +232,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """<b><a href="https://t.me/Indian_MV">{file_name}</a></b>\n\n<b><blockquote>🌹 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ›› <a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a></blockquote></b>
     
     MOVIE_UPDATE_NOTIFY_TXT = """
-</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
+# </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
 <blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename}</code>
 
